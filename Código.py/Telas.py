@@ -84,7 +84,7 @@ class Telas:
             [sg.Text('\n')],
             [sg.Text('- Para aprimorarmos o desempenho de suas vendas', font=self.__tipo_fonte)],
             [sg.Text('  vamos precisar de mais informações.', font=self.__tipo_fonte)],
-            [sg.Text('  Elas são, a demanda mensal e o preço unitario,', font=self.__tipo_fonte)],
+            [sg.Text('  Elas são: a demanda mensal e o preço unitario,', font=self.__tipo_fonte)],
             [sg.Text('  dos ultimos 3 meses. ', font=self.__tipo_fonte)],
             [sg.Text('\n'*3)]
         ]
