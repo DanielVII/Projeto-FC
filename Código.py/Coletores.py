@@ -162,7 +162,7 @@ class ColetarInfo:
                     [texto_de_erro],
                     [sg.Text(f'{"Sobre os últimos 3 meses":^45}', font=self.__tipo_fonte)],
                     [sg.Text("\n*use virgula para separar os centavos.")],
-                    [sg.Text(f'Demando do mês {mes}', font=self.__tipo_fonte)],
+                    [sg.Text(f'Demanda do mês {mes}', font=self.__tipo_fonte)],
                     [sg.Input(key='demanda', size=(60, 1))],
                     [sg.Text('\n')],
                     [sg.Text(f'Preço do produto no mes {mes}', font=self.__tipo_fonte)],
