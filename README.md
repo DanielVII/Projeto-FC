@@ -7,8 +7,8 @@ Para o programa funcionar ele tem alguns pré-requisitos:
 Caso você não tenha conhecimento sobre banco de dados, é fácil criar um, basta seguir os seguintes passos:
 
 1-baixar dois programas; 
-Xampp, pelo link: https://www.apachefriends.org/pt_br/download.html
-MySQL, pelo link: https://www.mysql.com/downloads/ ; 
+Xampp, pelo link: https://www.apachefriends.org/pt_br/download.html ;
+MySQL, pelo link: https://www.mysql.com/downloads/  
     
 2-Com o Xampp instalado, abra-o e aperte em "start" no botão que está associado ao MySQL.
   
