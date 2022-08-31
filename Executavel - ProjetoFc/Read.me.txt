@@ -1,1 +1,0 @@
-Para o progrma funcionar, o banco de dados deve estar instalado e ativo na máquina do usuario. 
